@@ -1,0 +1,9 @@
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\obj\Debug\DrawingSecond.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\obj\Debug\DrawingSecond.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\bin\Debug\DrawingSecond.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\bin\Debug\DrawingSecond.pdb
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\bin\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\bin\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\obj\Debug\DrawingSecond.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\obj\Debug\DrawingSecond.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\DrawingSecond\obj\Debug\DrawingSecond.pdb

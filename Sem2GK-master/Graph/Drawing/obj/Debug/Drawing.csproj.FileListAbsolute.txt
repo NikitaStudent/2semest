@@ -1,0 +1,17 @@
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\bin\Debug\Drawing.dll
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\bin\Debug\Drawing.pdb
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\bin\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\bin\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\obj\Debug\Drawing.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\obj\Debug\Drawing.dll
+C:\Users\sidad\Desktop\people\people\GnezdilovK\Sem2\Graph\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\bin\Debug\Drawing.dll
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\bin\Debug\SimpleGraph.dll
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\bin\Debug\SimpleGraph.pdb
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\obj\Debug\Drawing.dll
+C:\Users\Кирилл\Desktop\Sem2GK-master\Graph\Drawing\obj\Debug\Drawing.pdb

@@ -1,0 +1,12 @@
+Z:\dev\OutSource\GnezdilovAtt\Att\bin\Debug\Att.exe.config
+Z:\dev\OutSource\GnezdilovAtt\Att\bin\Debug\Att.exe
+Z:\dev\OutSource\GnezdilovAtt\Att\bin\Debug\Att.pdb
+Z:\dev\OutSource\GnezdilovAtt\Att\bin\Debug\Programs.dll
+Z:\dev\OutSource\GnezdilovAtt\Att\bin\Debug\Programs.pdb
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.csprojResolveAssemblyReference.cache
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.Att.resources
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.Properties.Resources.resources
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.csproj.GenerateResource.Cache
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.csproj.CoreCompileInputs.cache
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.exe
+Z:\dev\OutSource\GnezdilovAtt\Att\obj\Debug\Att.pdb

@@ -1,0 +1,6 @@
+Z:\dev\OutSource\GnezdilovAtt\Programs\bin\Debug\Programs.dll
+Z:\dev\OutSource\GnezdilovAtt\Programs\bin\Debug\Programs.pdb
+Z:\dev\OutSource\GnezdilovAtt\Programs\obj\Debug\Programs.csprojResolveAssemblyReference.cache
+Z:\dev\OutSource\GnezdilovAtt\Programs\obj\Debug\Programs.csproj.CoreCompileInputs.cache
+Z:\dev\OutSource\GnezdilovAtt\Programs\obj\Debug\Programs.dll
+Z:\dev\OutSource\GnezdilovAtt\Programs\obj\Debug\Programs.pdb

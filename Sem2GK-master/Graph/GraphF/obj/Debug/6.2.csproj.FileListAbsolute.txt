@@ -1,0 +1,15 @@
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\6.2.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\_6._2.GraphForm.resources
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\_6._2.Properties.Resources.resources
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\6.2.csproj.GenerateResource.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\6.2.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\6.2.exe.config
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\6.2.exe
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\6.2.pdb
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\DrawingSecond.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\SimpleGraph.dll
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\DrawingSecond.pdb
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\bin\Debug\SimpleGraph.pdb
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\6.2.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\6.2.exe
+C:\Users\sidad\Desktop\people\people\Zaborskih_I\sem2\att3\6.2\obj\Debug\6.2.pdb
